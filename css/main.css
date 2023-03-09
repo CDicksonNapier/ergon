@@ -222,8 +222,8 @@ h1{
     width: 50%;
     background-color: green;
     left:50%;
-    top:50%;
-    transform: translate(-50%,-80%);
+    top:10%;
+    transform: translate(-50%,0%);
     text-align: center;
 }
 .one{
