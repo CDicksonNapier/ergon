@@ -219,6 +219,7 @@ h1{
     font-weight: 500;
     font-size: 5rem;
     width: 100%;
+    background-color: green;
 }
 .one{
    background-image: url('../images/saddle1Edit.png');   
