@@ -14,12 +14,7 @@ body,html{
   
  
   
-  header{
-       
-    padding: 10px 20px;
-    position: sticky;
-  }
-
+ 
   header .logo-wrapper{
     
     max-width: 1750px;
