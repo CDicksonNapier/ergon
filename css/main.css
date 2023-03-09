@@ -37,7 +37,7 @@
   position: fixed;  
   color: white;
   width: 100%;
-  background: rgba(0,0,0,0.5);
+  background: rgba(0,0,0,0.75);
 }
 
 .nav-links a {
