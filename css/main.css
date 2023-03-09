@@ -161,6 +161,7 @@ white;
 
 .content{
     max-width: 800px;
+    width: 100%;
 }
 .sidebar{
     position: fixed;
