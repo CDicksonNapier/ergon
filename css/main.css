@@ -212,20 +212,15 @@ section{
     scroll-behavior: smooth;
     position: relative;
 }
-h1{
+.content h1{
     position: absolute;
     color: white;
     font-family:  sans-serif;
-    text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 500;
     font-size: 4rem;
     width: 50%;
-    
-    left:50%;
-    top:30%;
-    transform: translate(-50%,0%);
-    text-align: center;
+  
 }
 .one{
    background-image: url('../images/saddle1Edit.png');   
