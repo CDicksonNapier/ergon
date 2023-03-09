@@ -213,11 +213,11 @@ section{
     position: relative;
 }
 .content h1{
-    position: absolute;
+    
     color: white;
     font-family:  sans-serif;
     letter-spacing: 2px;
-    font-weight: 500;
+    font-weight: 600;
     font-size: 5rem;
     width: 100%;
   
