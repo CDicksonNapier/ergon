@@ -163,6 +163,9 @@ white;
   background-color: green;
   width: 50%;
   height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 .sidebar{
     position: fixed;
