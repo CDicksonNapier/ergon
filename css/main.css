@@ -223,7 +223,7 @@ h1{
     background-color: green;
     left:50%;
     top:50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-40%,-50%);
     text-align: center;
 }
 .one{
