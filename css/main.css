@@ -101,7 +101,7 @@ input[type=checkbox]{
 
 .dot {
   width: 250px;
-  height:40px;    
+  height:60px;    
   border-radius: 0%;
   display: flex;
   margin-top:25px;  
@@ -111,7 +111,6 @@ input[type=checkbox]{
   background-color: rgba(255,255,255, 0.2);
   backdrop-filter: blur(10px );
   -webkit-backdrop-filter: blur( 60px );
-  font-size: 20px;
   text-align: left;    
   align-items: center;
 
@@ -121,7 +120,7 @@ input[type=checkbox]{
 .dot a{
   text-decoration: none;
   color: white;
-  font-size: 99px;
+  font-size: 22px;
   margin-left: 10px;
 
 
