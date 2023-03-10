@@ -192,6 +192,7 @@ section h1{
 }
 
 section#whoweare{
+  background-color: rgba(0,0,0,0.4);
   background-image: url('../images/saddle1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
