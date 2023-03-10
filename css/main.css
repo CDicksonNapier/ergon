@@ -38,6 +38,7 @@
   color: white;
   width: 100%;
   background: rgba(0,0,0,0.75);
+  z-index: 10;
 }
 
 .nav-links a {
@@ -129,7 +130,7 @@ input[type=checkbox]{
 .dot {
   height: 45px;
   width: 10px;
-  background: rgba(255, 255, 255, 0.65);    
+  background: rgba(0, 0, 0, .51);    
   backdrop-filter: blur( 50px );
   -webkit-backdrop-filter: blur( 60px );
   border-radius: 10px;    
@@ -192,35 +193,41 @@ section h1{
 }
 
 section#whoweare{
-  background-image: linear-gradient(45.34deg, #EA52F8 5.66%, #0066FF 94.35%);
-  /* background-image: url('../images/saddle1.jpg'); */
+  
+  background-image: url('../images/saddle1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
+ 
 }
 section#whatwedo{
   background-image: url('../images/saddle2.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#whywemakeit{
   background-image: url('../images/saddle3.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#ourapproach{
   background-image: url('../images/saddle4.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#contact{
   background-image: url('../images/saddle5.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 /* The Biotree sections */
 section#introductionBioTree{
@@ -228,36 +235,42 @@ section#introductionBioTree{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#complimentingTheMts{
   background-image: url('../images/saddle7.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#betterLoad{
   background-image: url('../images/saddle8.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#reducedRisk{
   background-image: url('../images/saddle9.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#increasedPerformance{
   background-image: url('../images/saddle10.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#whereToBuy{
   background-image: url('../images/saddle11.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 
 /* The MTS sections */
@@ -266,36 +279,42 @@ section#introMTS{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#systemFlexibility{
   background-image: url('../images/saddle14.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#notAnotherSynthTree{
   background-image: url('../images/saddle15.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#forTheSaddleMaker{
   background-image: url('../images/saddle16.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#increasedPerformance{
   background-image: url('../images/saddle17.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#whereToBuyMTS{
   background-image: url('../images/saddle12.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 /* Blog */
 section#underConstruction{
@@ -303,6 +322,7 @@ section#underConstruction{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 /* How Sections */
 section#equineResearch{
@@ -310,24 +330,28 @@ section#equineResearch{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#howTheSaddleIsMade{
   background-image: url('../images/saddle18.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#devThroughSim{
   background-image: url('../images/saddle19.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 section#prototyping{
   background-image: url('../images/saddle12.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  filter: grayscale(.5);
 }
 
 
